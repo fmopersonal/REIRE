@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.0//EN" "http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd">
+<ArticleSet>
+  <Article>
+    <Journal>
+      <PublisherName>Universitat de Barcelona</PublisherName>
+      <JournalTitle>REIRE Revista d'Innovació i Recerca en Educació</JournalTitle>
+      <Issn>2013-2255</Issn>
+      <Volume>1</Volume>
+      <Issue>1</Issue>
+      <PubDate PubStatus="epublish">
+        <Year>2008</Year>
+        <Month>12</Month>
+        <Day>04</Day>
+      </PubDate>
+    </Journal>
+    <VernacularTitle>Les comunitats virtuals per a la formació permanent del professorat.</VernacularTitle>
+    <FirstPage>reire2008.1.1111</FirstPage>
+    <LastPage>reire2008.1.1111</LastPage>
+    <ELocationID EIdType="doi">10.1344/reire2008.1.1111</ELocationID>
+    <Language>ES</Language>
+    <AuthorList>
+      <Author>
+        <FirstName>Begoña</FirstName>
+        <LastName>Gros-Salvat</LastName>
+        <Affiliation>Universitat de Barcelona (UB). bgros@ub.edu</Affiliation>
+      </Author>
+    </AuthorList>
+    <ArticleIdList>
+      <ArticleId IdType="pii">reire2008.1.1111</ArticleId>
+    </ArticleIdList>
+    <History>
+      <PubDate PubStatus="received">
+        <Year>2012</Year>
+        <Month>01</Month>
+        <Day>26</Day>
+      </PubDate>
+    </History>
+    <Abstract>Les xarxes socials, cada dia més presents a Internet, mostren la importància d’una nova forma d’organització social a través de la xarxa. Les xarxes digitals creen noves comunitats no dependents de territoris físics ni espai-temporals. Nous espais, nous mitjans i noves formes de comunicació i producció del coneixement que necessàriament fan reconsiderar la formació i el desenvolupament professional de docents i educadors. El repte dels propers anys no està centrat en l’accés a Internet sinó en la formació de ciutadans que puguin ser capaços d’aprendre i contribuir a la xarxa. Les comunitats virtuals d’aprenentatge i de pràctica tenen un gran potencial per a la formació permanent del professorat.</Abstract>
+    <ObjectList>
+      <Object Type="keyword">
+        <Param Name="value">Comunidades virtuales</Param>
+      </Object>
+      <Object Type="keyword">
+        <Param Name="value">comunidades de práctica</Param>
+      </Object>
+      <Object Type="keyword">
+        <Param Name="value">formación permanente</Param>
+      </Object>
+      <Object Type="keyword">
+        <Param Name="value">ciudadanía digital</Param>
+      </Object>
+      <Object Type="keyword">
+        <Param Name="value">formación ciudadana</Param>
+      </Object>
+    </ObjectList>
+  </Article>
+</ArticleSet>
